@@ -1,3 +1,4 @@
+//---------------------------------------problem statement--------------------------
 // keep a list of scores, apply each operation step by step, and finally sum them up.
 // Start with an empty record.
 // If the operation is an integer x → add x as a new score.
